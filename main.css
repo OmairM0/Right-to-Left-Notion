@@ -9,3 +9,7 @@
 [placeholder='List'] {
  text-align: right !important; 
 }
+
+.notion-quote-block > div {
+  border-right: 3px solid currentcolor;
+}
