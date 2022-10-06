@@ -7,5 +7,5 @@
 }
 
 [placeholder='List'] {
- text-align: right; 
+ text-align: right !important; 
 }
