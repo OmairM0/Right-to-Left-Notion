@@ -2,6 +2,10 @@
   direction: rtl;
 }
 
-.notion-code-blockو .notranslate {
+.notion-code-block .notranslate {
   direction: ltr;
+}
+
+[palceholder='List'] {
+ text-align: right; 
 }
